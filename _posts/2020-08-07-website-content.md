@@ -44,7 +44,7 @@ A couple of things to notice:
   - More pound signs produce smaller headings
 - You can create links using standard Markdown syntax, e.g., `[link text](url)`
   - If you're linking to a page generated from a source `.md` file in `_pages`, just put a slash before the page name and don't include any extension, e.g., `[software](/software)`
-- You can embed images by adding an exclamation point before the opening `[` in Markdown link syntax, e.g., `![](/images/profile.png)`
+- You can embed images by adding an exclamation point before the opening `[` in Markdown link syntax, e.g., `![](/images/profile.jpg)`
 - You can create code blocks like the ones on this page by enclosing text in triple backticks
   - Put the name of the programming language after the opening backticks to activate [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)
 - You can also embed raw HTML directly like I used to include three images next to one another
