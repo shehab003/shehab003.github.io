@@ -12,9 +12,6 @@ Protein post-translational modifications (PTM) are important cellular regulatory
 - __Supervisor__: [Dr. M. Sohel Rahman](http://msrahman.buet.ac.bd/)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Bangladesh Universiry of Engineering and Technology (BUET)<br/>
-<!-- - __Co Authors__: 
-    1. [Md. Mehrab Tanjim](https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en), PhD Student, CSE, University of California, San Diego<br/>
-- __Status__: Published in [Information System](https://www.sciencedirect.com/journal/information-systems) [[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0306437920301526?via%3Dihub)] [Code](https://github.com/tmadnan10/TallnWide) -->
 
 
 Hierarchical Attention for Host Intrusion Detection
