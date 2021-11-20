@@ -20,6 +20,3 @@ The host-based intrusion detection system (HIDS) has been gaining attention in t
 - __Supervisor__: [Dr. Md. Shohrab Hossain](https://scholar.google.com/citations?user=y89HApwAAAAJ&hl=en)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Professor, Deaprtment of CSE<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Bangladesh Universiry of Engineering and Technology (BUET)<br/>
-<!-- - __Co Authors__: 
-    1. [Md. Shehab Sarar Ahmed](https://cse.buet.ac.bd/faculty/facdetail.php?id=shehab), Lecturer, CSE, Bangladesh Universiry of Engineering and Technology (BUET)
-- __Status__: Preprint -->
